@@ -1,5 +1,6 @@
 fastapi
 uvicorn[standard]
-opencv-python
+opencv-python-headless==4.10.0.84
 numpy
 requests
+python-multipart
